@@ -19,7 +19,8 @@
 
 
 .questionIcon {
-  background: url(./icons/default-avatar.jpg);
+  /* background: url(./icons/default-avatar.jpg); */
+  background: url(./icons/touxiang.png);
   background-size: contain;
   border-radius: 50%;
 }
