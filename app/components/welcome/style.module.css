@@ -22,6 +22,7 @@
 }
 
 .logo {
+  /* display: none; */
   width: 48px;
   height: 20px;
   background: url(./icons/logo.png) center center no-repeat;
